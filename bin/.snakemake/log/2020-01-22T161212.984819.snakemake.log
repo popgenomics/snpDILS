@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 139 of /home/croux/Programmes/DILS/bin/Snakefile_2pop:
+Missing input files for rule fasta2ABC_2pops:
+/shared/home/croux/scratch/test/ABConline/reduced_fastaFile.fasta

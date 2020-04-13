@@ -1,0 +1,3 @@
+KeyError in line 58 of /home/croux/Programmes/DILS/bin/Snakefile_2pop:
+'mail_address'
+  File "/home/croux/Programmes/DILS/bin/Snakefile_2pop", line 58, in <module>
